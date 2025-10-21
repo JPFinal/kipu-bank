@@ -8,7 +8,7 @@ KipuBank es un contrato inteligente escrito en Solidity que permite a los usuari
 
 - **Dirección:** `0x36360f693109ad2a30cd66200bbe8a4b6e07ec9d`
 - **Red:** Sepolia Testnet
-- **Verificado en Etherscan:** [Ver contrato en Sepolia](https://sepolia.etherscan.io/address/0x36360f693109ad2a30cd66200bbe8a4b6e07ec9d)
+- **Verificado en Etherscan:** [Ver contrato en Sepolia](https://sepolia.etherscan.io/address/0x596381026b92da86CDFFBf9BBb280F02E7C072C5)
 
 ---
 
